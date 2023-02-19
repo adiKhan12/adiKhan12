@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adnan Khan</h1>
+<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
 <img align="right"
@@ -6,10 +6,10 @@
     width="190">
 
 
-- 🌱 I’m Software Engineer 
-- 👨‍💻 All of my projects are here at github
+- 🌱 I’m currently learning **React js**
+
 - 💬 Ask me about Anything **Tech** Related
-- 
+
 # Tools & Technologies I Use For Development:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
