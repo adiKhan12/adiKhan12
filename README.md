@@ -6,8 +6,21 @@
     width="190">
 
 
-- 🌱 I’m currently learning **React js**
+I am a software engineer with experience in Python scripting, testing, Bash scripting, Linux, REST APIs, Django, JavaScript, web development (HTML, CSS), and embedded systems. I am passionate about DevOps and have good knowledge of AWS services.
 
+## Skills
+- Python scripting
+- Testing
+- Bash scripting
+- Linux
+- REST APIs
+- Django
+- JavaScript
+- Web development (HTML, CSS)
+- Embedded systems
+- AWS services
+- Dockers
+- CI/CD
 - 💬 Ask me about Anything **Tech** Related
 
 # Tools & Technologies I Use For Development:
