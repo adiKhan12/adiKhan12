@@ -9,7 +9,7 @@
 - 🌱 I’m Software Engineer 
 - 👨‍💻 All of my projects are here at github
 - 💬 Ask me about Anything **Tech** Related
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+- 
 # Tools & Technologies I Use For Development:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -27,14 +27,14 @@
 <br>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abdurrehmaan&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmaan"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=adiKhan12&label=Profile%20views&color=0e75b6&style=flat" alt="adiKhan12"/></p>
 <h2 align="center">🌟 Socials 🌟</h2>
 
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=abdurrehmaan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehmaan&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=adiKhan12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiKhan12&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdurrehmaan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="abdurrehmaan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=adiKhan12&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="adiKhan12" /></p>
 
