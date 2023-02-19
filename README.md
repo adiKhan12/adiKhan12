@@ -24,20 +24,8 @@ I am a software engineer with experience in Python scripting, testing, Bash scri
 - 💬 Ask me about Anything **Tech** Related
 
 # Tools & Technologies I Use For Development:
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://avatars1.githubusercontent.com/u/25158?s=200&v=4"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<br>
+![Python](https://img.icons8.com/color/48/000000/python.png) ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![REST API](https://img.icons8.com/color/48/000000/api.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) ![Embedded Systems](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=adiKhan12&label=Profile%20views&color=0e75b6&style=flat" alt="adiKhan12"/></p>
