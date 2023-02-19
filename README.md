@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Adnan Khan</h1>
 <h3 align="center">Enthusiast about Tech and want to Learn Everything</h3>
 
 <img align="right"
