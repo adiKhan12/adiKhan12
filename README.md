@@ -24,7 +24,7 @@ I am a software engineer with experience in Python scripting, testing, Bash scri
 - 💬 Ask me about Anything **Tech** Related
 
 # Tools & Technologies I Use For Development:
-![Python](https://img.icons8.com/color/48/000000/python.png) ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![REST API](https://img.icons8.com/color/48/000000/api.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) ![Embedded Systems](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![REST API](https://img.icons8.com/color/48/000000/api.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) ![Embedded Systems](https://img.icons8.com/color/48/000000/raspberry-pi.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![docker](https://img.icons8.com/color/48/000000/docker.png) 
 
 
 
